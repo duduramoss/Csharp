@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Enquanto e Repita/1.0.0": {
+        "runtime": {
+          "Enquanto e Repita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enquanto e Repita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

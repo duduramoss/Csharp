@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\bin\Debug\netcoreapp3.1\Enquanto e Repita.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\bin\Debug\netcoreapp3.1\Enquanto e Repita.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\bin\Debug\netcoreapp3.1\Enquanto e Repita.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\bin\Debug\netcoreapp3.1\Enquanto e Repita.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\bin\Debug\netcoreapp3.1\Enquanto e Repita.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\bin\Debug\netcoreapp3.1\Enquanto e Repita.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\obj\Debug\netcoreapp3.1\Enquanto e Repita.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\obj\Debug\netcoreapp3.1\Enquanto e Repita.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\obj\Debug\netcoreapp3.1\Enquanto e Repita.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\obj\Debug\netcoreapp3.1\Enquanto e Repita.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\obj\Debug\netcoreapp3.1\Enquanto e Repita.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\obj\Debug\netcoreapp3.1\Enquanto e Repita.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Enquanto e Repita\Enquanto e Repita\obj\Debug\netcoreapp3.1\Enquanto e Repita.genruntimeconfig.cache

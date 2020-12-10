@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\bin\Debug\netcoreapp3.1\CriancaEsperanca.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\bin\Debug\netcoreapp3.1\CriancaEsperanca.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\bin\Debug\netcoreapp3.1\CriancaEsperanca.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\bin\Debug\netcoreapp3.1\CriancaEsperanca.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\bin\Debug\netcoreapp3.1\CriancaEsperanca.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\bin\Debug\netcoreapp3.1\CriancaEsperanca.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\obj\Debug\netcoreapp3.1\CriancaEsperanca.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\obj\Debug\netcoreapp3.1\CriancaEsperanca.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\obj\Debug\netcoreapp3.1\CriancaEsperanca.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\obj\Debug\netcoreapp3.1\CriancaEsperanca.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\obj\Debug\netcoreapp3.1\CriancaEsperanca.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\obj\Debug\netcoreapp3.1\CriancaEsperanca.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\CriancaEsperanca\CriancaEsperanca\obj\Debug\netcoreapp3.1\CriancaEsperanca.genruntimeconfig.cache

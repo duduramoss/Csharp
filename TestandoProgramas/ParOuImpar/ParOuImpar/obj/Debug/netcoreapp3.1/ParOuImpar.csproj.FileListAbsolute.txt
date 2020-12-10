@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.genruntimeconfig.cache

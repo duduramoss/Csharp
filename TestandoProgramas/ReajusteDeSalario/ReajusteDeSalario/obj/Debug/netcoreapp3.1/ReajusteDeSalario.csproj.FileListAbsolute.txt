@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\bin\Debug\netcoreapp3.1\ReajusteDeSalario.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\bin\Debug\netcoreapp3.1\ReajusteDeSalario.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\bin\Debug\netcoreapp3.1\ReajusteDeSalario.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\bin\Debug\netcoreapp3.1\ReajusteDeSalario.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\bin\Debug\netcoreapp3.1\ReajusteDeSalario.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\bin\Debug\netcoreapp3.1\ReajusteDeSalario.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\obj\Debug\netcoreapp3.1\ReajusteDeSalario.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\obj\Debug\netcoreapp3.1\ReajusteDeSalario.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\obj\Debug\netcoreapp3.1\ReajusteDeSalario.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\obj\Debug\netcoreapp3.1\ReajusteDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\obj\Debug\netcoreapp3.1\ReajusteDeSalario.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\obj\Debug\netcoreapp3.1\ReajusteDeSalario.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ReajusteDeSalario\ReajusteDeSalario\obj\Debug\netcoreapp3.1\ReajusteDeSalario.genruntimeconfig.cache

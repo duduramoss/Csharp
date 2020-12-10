@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\bin\Debug\netcoreapp3.1\TestantoHabilidades2.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\bin\Debug\netcoreapp3.1\TestantoHabilidades2.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\bin\Debug\netcoreapp3.1\TestantoHabilidades2.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\bin\Debug\netcoreapp3.1\TestantoHabilidades2.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\bin\Debug\netcoreapp3.1\TestantoHabilidades2.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\bin\Debug\netcoreapp3.1\TestantoHabilidades2.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\obj\Debug\netcoreapp3.1\TestantoHabilidades2.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\obj\Debug\netcoreapp3.1\TestantoHabilidades2.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\obj\Debug\netcoreapp3.1\TestantoHabilidades2.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\obj\Debug\netcoreapp3.1\TestantoHabilidades2.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\obj\Debug\netcoreapp3.1\TestantoHabilidades2.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\obj\Debug\netcoreapp3.1\TestantoHabilidades2.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TestantoHabilidades2\TestantoHabilidades2\obj\Debug\netcoreapp3.1\TestantoHabilidades2.genruntimeconfig.cache

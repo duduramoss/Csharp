@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\bin\Debug\netcoreapp3.1\SomandoComRepeticao.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\bin\Debug\netcoreapp3.1\SomandoComRepeticao.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\bin\Debug\netcoreapp3.1\SomandoComRepeticao.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\bin\Debug\netcoreapp3.1\SomandoComRepeticao.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\bin\Debug\netcoreapp3.1\SomandoComRepeticao.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\bin\Debug\netcoreapp3.1\SomandoComRepeticao.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\obj\Debug\netcoreapp3.1\SomandoComRepeticao.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\obj\Debug\netcoreapp3.1\SomandoComRepeticao.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\obj\Debug\netcoreapp3.1\SomandoComRepeticao.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\obj\Debug\netcoreapp3.1\SomandoComRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\obj\Debug\netcoreapp3.1\SomandoComRepeticao.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\obj\Debug\netcoreapp3.1\SomandoComRepeticao.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SomandoComRepeticao\SomandoComRepeticao\obj\Debug\netcoreapp3.1\SomandoComRepeticao.genruntimeconfig.cache

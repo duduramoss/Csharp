@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\bin\Debug\netcoreapp3.1\AprovadoReprovado.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\bin\Debug\netcoreapp3.1\AprovadoReprovado.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\bin\Debug\netcoreapp3.1\AprovadoReprovado.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\bin\Debug\netcoreapp3.1\AprovadoReprovado.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\bin\Debug\netcoreapp3.1\AprovadoReprovado.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\bin\Debug\netcoreapp3.1\AprovadoReprovado.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\obj\Debug\netcoreapp3.1\AprovadoReprovado.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\obj\Debug\netcoreapp3.1\AprovadoReprovado.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\obj\Debug\netcoreapp3.1\AprovadoReprovado.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\obj\Debug\netcoreapp3.1\AprovadoReprovado.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\obj\Debug\netcoreapp3.1\AprovadoReprovado.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\obj\Debug\netcoreapp3.1\AprovadoReprovado.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\AprovadoReprovado\AprovadoReprovado\obj\Debug\netcoreapp3.1\AprovadoReprovado.genruntimeconfig.cache

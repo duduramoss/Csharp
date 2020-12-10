@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\bin\Debug\netcoreapp3.1\SuperContador.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\bin\Debug\netcoreapp3.1\SuperContador.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\bin\Debug\netcoreapp3.1\SuperContador.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\bin\Debug\netcoreapp3.1\SuperContador.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\bin\Debug\netcoreapp3.1\SuperContador.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\bin\Debug\netcoreapp3.1\SuperContador.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\obj\Debug\netcoreapp3.1\SuperContador.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\obj\Debug\netcoreapp3.1\SuperContador.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\obj\Debug\netcoreapp3.1\SuperContador.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\obj\Debug\netcoreapp3.1\SuperContador.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\obj\Debug\netcoreapp3.1\SuperContador.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\obj\Debug\netcoreapp3.1\SuperContador.genruntimeconfig.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SuperContador\SuperContador\obj\Debug\netcoreapp3.1\SuperContador.csprojAssemblyReference.cache

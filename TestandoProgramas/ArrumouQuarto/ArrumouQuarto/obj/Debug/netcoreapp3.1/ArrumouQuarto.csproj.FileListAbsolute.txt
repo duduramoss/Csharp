@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\bin\Debug\netcoreapp3.1\ArrumouQuarto.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\bin\Debug\netcoreapp3.1\ArrumouQuarto.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\bin\Debug\netcoreapp3.1\ArrumouQuarto.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\bin\Debug\netcoreapp3.1\ArrumouQuarto.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\bin\Debug\netcoreapp3.1\ArrumouQuarto.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\bin\Debug\netcoreapp3.1\ArrumouQuarto.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\obj\Debug\netcoreapp3.1\ArrumouQuarto.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\obj\Debug\netcoreapp3.1\ArrumouQuarto.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\obj\Debug\netcoreapp3.1\ArrumouQuarto.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\obj\Debug\netcoreapp3.1\ArrumouQuarto.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\obj\Debug\netcoreapp3.1\ArrumouQuarto.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\obj\Debug\netcoreapp3.1\ArrumouQuarto.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\ArrumouQuarto\ArrumouQuarto\obj\Debug\netcoreapp3.1\ArrumouQuarto.genruntimeconfig.cache

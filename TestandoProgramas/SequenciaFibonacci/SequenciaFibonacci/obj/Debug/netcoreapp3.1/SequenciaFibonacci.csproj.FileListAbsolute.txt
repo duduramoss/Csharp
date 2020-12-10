@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\netcoreapp3.1\SequenciaFibonacci.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\netcoreapp3.1\SequenciaFibonacci.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\netcoreapp3.1\SequenciaFibonacci.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\netcoreapp3.1\SequenciaFibonacci.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\netcoreapp3.1\SequenciaFibonacci.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\netcoreapp3.1\SequenciaFibonacci.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\netcoreapp3.1\SequenciaFibonacci.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\netcoreapp3.1\SequenciaFibonacci.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\netcoreapp3.1\SequenciaFibonacci.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\netcoreapp3.1\SequenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\netcoreapp3.1\SequenciaFibonacci.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\netcoreapp3.1\SequenciaFibonacci.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\netcoreapp3.1\SequenciaFibonacci.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\bin\Debug\netcoreapp3.1\PossoViajar.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\bin\Debug\netcoreapp3.1\PossoViajar.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\bin\Debug\netcoreapp3.1\PossoViajar.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\bin\Debug\netcoreapp3.1\PossoViajar.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\bin\Debug\netcoreapp3.1\PossoViajar.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\bin\Debug\netcoreapp3.1\PossoViajar.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\obj\Debug\netcoreapp3.1\PossoViajar.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\obj\Debug\netcoreapp3.1\PossoViajar.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\obj\Debug\netcoreapp3.1\PossoViajar.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\obj\Debug\netcoreapp3.1\PossoViajar.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\obj\Debug\netcoreapp3.1\PossoViajar.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\obj\Debug\netcoreapp3.1\PossoViajar.genruntimeconfig.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\PossoViajar\PossoViajar\obj\Debug\netcoreapp3.1\PossoViajar.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\bin\Debug\netcoreapp3.1\Combinacoes.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\bin\Debug\netcoreapp3.1\Combinacoes.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\bin\Debug\netcoreapp3.1\Combinacoes.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\bin\Debug\netcoreapp3.1\Combinacoes.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\bin\Debug\netcoreapp3.1\Combinacoes.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\bin\Debug\netcoreapp3.1\Combinacoes.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\obj\Debug\netcoreapp3.1\Combinacoes.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\obj\Debug\netcoreapp3.1\Combinacoes.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\obj\Debug\netcoreapp3.1\Combinacoes.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\obj\Debug\netcoreapp3.1\Combinacoes.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\obj\Debug\netcoreapp3.1\Combinacoes.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\obj\Debug\netcoreapp3.1\Combinacoes.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\Combinacoes\Combinacoes\obj\Debug\netcoreapp3.1\Combinacoes.genruntimeconfig.cache

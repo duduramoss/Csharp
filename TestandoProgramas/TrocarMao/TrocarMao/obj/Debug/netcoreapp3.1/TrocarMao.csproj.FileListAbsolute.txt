@@ -1,0 +1,13 @@
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\bin\Debug\netcoreapp3.1\TrocarMao.exe
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\bin\Debug\netcoreapp3.1\TrocarMao.deps.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\bin\Debug\netcoreapp3.1\TrocarMao.runtimeconfig.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\bin\Debug\netcoreapp3.1\TrocarMao.runtimeconfig.dev.json
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\bin\Debug\netcoreapp3.1\TrocarMao.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\bin\Debug\netcoreapp3.1\TrocarMao.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\obj\Debug\netcoreapp3.1\TrocarMao.csprojAssemblyReference.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\obj\Debug\netcoreapp3.1\TrocarMao.AssemblyInfoInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\obj\Debug\netcoreapp3.1\TrocarMao.AssemblyInfo.cs
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\obj\Debug\netcoreapp3.1\TrocarMao.csproj.CoreCompileInputs.cache
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\obj\Debug\netcoreapp3.1\TrocarMao.dll
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\obj\Debug\netcoreapp3.1\TrocarMao.pdb
+C:\Users\Selfpay\Desktop\C#\TestandoProgramas\TrocarMao\TrocarMao\obj\Debug\netcoreapp3.1\TrocarMao.genruntimeconfig.cache
